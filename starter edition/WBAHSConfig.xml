@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Soft>
+	<!--FormatProject设置保存的工程文件（其实就是个XML）是否要格式化，FrameFocus是是否跳转帧焦点-->
+	<Config FormatProject="0" FrameFocus="1"/>
+	<!--ScreenScale设置软件预置的屏幕分辨率-->
+	<ScreenScale>
+		<Scale Width="1024" Height="768"/>
+		<Scale Width="1366" Height="768"/>
+		<Scale Width="1280" Height="800"/>
+	</ScreenScale>
+</Soft>

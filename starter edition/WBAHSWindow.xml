@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Soft>
+	<Window>
+		<!--可以在这里自行修改软件样式，只要知道每个控件名以及其的属性就行了-->
+		<frmEditer Caption="%s(AppTitle) V%s(AppMajor).%s(AppMinor).%s(AppRevision) %s(AppBeta)" Width="962" Height="451"><timPlay Interval="75"></timPlay></frmEditer>
+		<frmFullscreen><timPlay Interval="75"></timPlay></frmFullscreen></Window>
+</Soft>
